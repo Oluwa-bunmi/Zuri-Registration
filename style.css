@@ -74,5 +74,23 @@ span{
     color:  red ;
 }
 @media screen and (max-width:1090px){
-    
+    section{
+        display: block;
+       padding: 2.4rem;
+    }
+    .top{
+        margin-top: 4rem;
+    }
+    .first{
+        text-align: center;
+    }
+    body{
+         width: 90%;
+    }
+    .bottom{
+        font-size: 13px;
+    }
+    .top{
+        font-size: 15px;
+    }
 }
