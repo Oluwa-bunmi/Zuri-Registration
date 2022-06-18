@@ -85,6 +85,7 @@ span{
     section{
         display: block;
        padding: 2.4rem;
+       background-image: url(images/bg-intro-mobile.png);
     }
     .top{
         margin-top: 4rem;
