@@ -1,0 +1,40 @@
+*{
+    padding: 0;
+    margin: 0;
+    text-decoration: none;
+    box-sizing: border-box;
+}
+
+section{
+    width: 80%;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+    background-color:  hsl(0, 100%, 74%) ;
+}
+.second{
+    display: flex;
+    flex-direction: column;
+}
+.second div {
+    display: flex;
+    flex-direction: column;
+    /* background-color: #fff; */
+}
+input{
+    /* padding: 15px; */
+    margin-bottom: 10px;
+    width: 100%;
+}
+.top{
+    background-color:  hsl(154, 59%, 51%);
+    /* padding: 30px; */
+    margin-bottom: 20px;
+}
+p{
+     Font-size: 16px;
+     color: #fff;
+     line-height: 30px;
+     
+
+}
